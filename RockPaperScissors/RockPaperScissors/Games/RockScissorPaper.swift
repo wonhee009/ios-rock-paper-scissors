@@ -7,7 +7,7 @@
 
 import Foundation
 
-class RockScissorPaper: CommonGame {
+class RockScissorPaper: CommonGame, Game {
     
     static let shared = RockScissorPaper()
     private override init() {}
