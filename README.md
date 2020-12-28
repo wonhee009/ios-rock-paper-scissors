@@ -378,9 +378,11 @@ enum TurnStatus {
 ## 💡 깨달은 점
 
 첫번째 프로젝트 이후 약 두 달뒤 다시 적어본 코드이다.
+
 생각보다 많은 부분이 뜯어져 나갔다.
+
 그래도 두달동안 성장했다로 생각하고 싶다.
 
 
-
+[네이밍시 state와 status를 결정하는 기준을 세웠다.](https://velog.io/@wonhee010/State-vs-Status)
 
